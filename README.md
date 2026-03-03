@@ -44,7 +44,9 @@ Soy una profesional apasionada por la intersección entre la tecnología y la co
 ---
 
 ## 📈 Estadísticas de GitHub
-![Stats de Josefina](https://github-readme-stats.vercel.app/api?username=josefina2609&show_icons=true&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=josefina2609&show_icons=true&theme=tokyonight" alt="Estadísticas de Josefina" />
+</p>
 
 ---
 
